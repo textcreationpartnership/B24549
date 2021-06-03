@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A watch word for Christians: being devine instructions, gathered out of the holy word of God· The first column sheweth the great danger that cometh by neglecting that duty, to vvatch and pray. The 2d. sheweth the great benefit that cometh to believers, by the faithful performing the great duty of watching and prayer. The third is rendred in plain English verse, very profitable and delightful to read, and fit to be set up in all private houses, for the instruction of youth.</title>
+            <author>W. I.</author>
+         </titleStmt>
+         <extent>Approx. 15KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24549</idno><idno type="EEBO-CITATION">99885374</idno>
+  <idno type="VID">201305</idno>
+  <idno type="EEBO-PROQUEST">2264213841</idno>
+  
+            <idno type="STC">Wing I21</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.22[31]</idno>
+            <idno type="STC">ESTC R222957</idno>
+            <idno type="PROQUEST">ocm99885374</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885374e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24549)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 201305)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; B2:1[41])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A watch word for Christians: being devine instructions, gathered out of the holy word of God· The first column sheweth the great danger that cometh by neglecting that duty, to vvatch and pray. The 2d. sheweth the great benefit that cometh to believers, by the faithful performing the great duty of watching and prayer. The third is rendred in plain English verse, very profitable and delightful to read, and fit to be set up in all private houses, for the instruction of youth.</title>
+                  <author>W. I.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Hose, over-against Staples-Inn in Holborn, neer Grays-Inn-Lane,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1680?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed at end: By W.I.</note>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Main body of text in black letter.</note>
+                  <note>Printed in three columns.</note>
+                  <note>With Biblical citations in marginal notes.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Prayer --  Christianity --  Early works to 1800.</term>
+               <term type="topical_term">Christian life --  Early works to 1800.</term>
+               <term type="topical_term">Conduct of life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:201305:1"/>
+            <head>A WATCH WORD FOR CHRISTIANS: Being Devine Instructions, Gathered Out of the HOLY WORD OF GOD.</head>
+            <head type="sub">
+               <list>
+                  <item>The First Column sheweth the Great Danger that cometh by Neglecting that Duty, to VVatch and Pray.</item>
+                  <item>The 2d. sheweth the Great Benefit that cometh to Believers, by the faithful performing the Great duty of watching and prayer.</item>
+                  <item>The Third is Rendred in plain English Verse, very profitable and delightful to Read, and fit to be set up in all Private houses, for the Instruction of Youth.</item>
+               </list>
+            </head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Mat. 26.41.</hi>
+                  </bibl> Watch and Pray, that ye enter not into temptation.</q>
+               <q>
+                  <bibl>
+                     <hi>Mark 13.33.</hi>
+                  </bibl> Take ye heed, watch and Pray.</q>
+               <q>
+                  <bibl>
+                     <hi>Mark 13.35.</hi>
+                  </bibl> Watch ye therefore, for ye know not what hour the Master of the House cometh.</q>
+               <q>
+                  <bibl>
+                     <hi>Luke 21.36.</hi>
+                  </bibl> Watch ye therefore, and pray all ways.</q>
+            </epigraph>
+            <q>
+               <lg>
+                  <l>Oh! VVatch and Pray to God continually,</l>
+                  <l>Till Christ doth come, that Raigns above the Sky.</l>
+               </lg>
+               <lg>
+                  <l>Oh! Fast and Pray, unto the Lord on High,</l>
+                  <l>In Iesus Name, that lives Eternally.</l>
+               </lg>
+            </q>
+            <q>Old <hi>Simian</hi> and <hi>Anna</hi> Watcht and Prayed continually in the Temple of the Lord, and God revealed un<g ref="char:EOLhyphen"/>to him, that he should not see death, till he had seen his Lord and Savior Jesus Christ,
+<bibl>
+                  <hi>Luke</hi> 2 <hi>Chap.</hi>
+               </bibl>
+            </q>
+            <figure/>
+            <p>Prayer and Abstenence, Faith fully perfor<g ref="char:EOLhyphen"/>med, is well-pleasing to God.</p>
+            <p>
+               <hi>Read the Book of Hester.</hi>
+            </p>
+            <div type="text">
+               <head>Now let us all seriously consider the manifold dangers that hath befallen several persons in former ages, that have neglected to watch and pray, in these following examples.</head>
+               <p>LEt us all watch and pray,
+<note place="margin">Gen: 3.23, 24. Gen 4:8, to 12. Gen 6 7, 8 Chapters. Gen. 19. c.</note> lest we loose heaven, as our first Parents lost Paradice, or least with <hi>Cain</hi> we comit Murder and be casheared from both our earthly, and heavenly habitation and be confined to inhabit in hell unto all eternity: or, with the Old World be destroyed with Rain from heaven: or, with the sinful inhabitants of <hi>Sodem</hi> and <hi>Gomorah,</hi> we be destro<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed with fire f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>om Heaven: or that with <hi>Lots</hi> wife our bodies be turned into a Pillar of Salt.</p>
+               <p>For had <hi>Nom</hi> watcht he had not been drunk nor discovered his own nakedness,
+<note place="margin">Gen. 9. c.</note> neither had he been mocked nor his Son cursed or with the Sech m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, we be the chief cause of our own utter destruction and our friends.
+<note place="margin">Gen. 34. c.</note> As the <hi>Sechemites</hi> were, by the Rape of <hi>Di<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>an</hi> old <hi>Jacob,</hi> daughter.</p>
+               <p>Let us all Watch and Pray least we with <hi>Zimry</hi> and <hi>Cozby</hi> be taken in the unclean act of Adultery and so like them,
+<note place="margin">Num. 25.</note> be slain by the hand of some Holy <hi>Phini<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s:</hi> or least with <hi>Chorah Dathan</hi> and <hi>A<gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>am,</hi>
+                  <note place="margin">Num. 16.</note> we rebel against those Magistrates that God hath set over us and the earth open her mouth and swal<g ref="char:EOLhyphen"/>low us and all our substance, as it did them and theirs: or least with <hi>Samson,</hi>
+                  <note place="margin">Judg. 16.</note> we be betrayed into the hands either of our Spiritual or temporal Enemies, and so become bondslaves to them both, as he did to the <hi>Philistians.</hi>
+               </p>
+               <p>For had <hi>Davis</hi> watcht and prayed,
+<note place="margin">2 Sam. 11</note> he had not been over<g ref="char:EOLhyphen"/>taken with the lawless love of <hi>Bachsheba,</hi> and so have comited both Adultery and Murder neither could Satan have provok<g ref="char:EOLhyphen"/>ed him for to number the people,
+<note place="margin">2 Sam. 24.</note> whereby the wrath of the Lord was kindled so that he destroyed thréescore and ten thou<g ref="char:EOLhyphen"/>sand thosen men in three days space with the plague.</p>
+               <p>Had <hi>Amon</hi> watcht over his lust he had not commited incest with his Sister <hi>Tamer,</hi>
+                  <note place="margin">2 Sam. 13</note> neither would he have been suddenly slain by his brother <hi>Absolon.</hi>
+               </p>
+               <p>Had the <hi>Aegyp<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ans</hi> watcht and prayed God would not have sent those ten great plagues upon them neither would he at once have destroyed both <hi>Pharach</hi> and his Hoast in the red Sea.
+<note place="margin">Exod. 14.</note>
+               </p>
+               <p>Had <hi>Anamas</hi> and <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>aphi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>a</hi> watcht and pray'd, Satan had not fill'd their hearts with a lye,
+<note place="margin">Acts 5. ch.</note> and distrust in God's providence, for which fault they were both suddenly slain by the power of God, in the presence of the whole Congregation.</p>
+            </div>
+            <div type="part">
+               <head>Here followeth several rare examples of the great benefit that cometh to believers, that Fast, Watch, and Pray, by the Examples of the Godly mentioned in the Bible.</head>
+               <p>
+                  <hi>ENoch</hi> Watcht and Prayed and it so pleased God that he was translated to heaven alive,
+<note place="margin">Gen. 5 24.</note> and did not sée nor taste of death: So was <hi>Eiah, 2 Kings 2.</hi>
+               </p>
+               <p>By diligent Watching and Prayer,
+<note place="margin">Gen. 6.8.</note> righteous <hi>Noah</hi> found favour with God, and by Prayer so prevailed with the Lord that himself with seven persons more only were pre<g ref="char:EOLhyphen"/>served in the Ark to replenish the world with people, when the whole earth was drowned with the Flood,
+<note place="margin">Gen. 8.21</note> and by Sacrafice and prayer so pasified the Lord that he promised to Curse the earth no more.</p>
+               <p>By watching and prayer <hi>Abraham</hi> so prevailed with God,
+<note place="margin">Gen. 18. c</note> that if there could have been but ten Righteous persons found in <hi>Sodom</hi> and <hi>Gomorah</hi> the Lord would not have destroyd them for those ten righteous persons sakes, as he did with fire and brimstone from Heaven, from the like Iudgements the Lord deliver us all.</p>
+               <p>Righteous <hi>Lot</hi> watch<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and prayed, and so pleased God that he sent two Angels to conduct him out of <hi>Sodom,</hi>
+                  <note place="margin">Gen. 19.21.</note> and at his prayer spared the City of <hi>Zoar</hi> for his sake.</p>
+               <p>By watching and prayer <hi>Moses</hi> prevailed with God to spare his people,
+<note place="margin">Exod 32. Num. 11, 12. cha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. Duter. 3 c</note> and quenched the fire of the Lord that burnt up the people, healed the Leprosie, and obtained liberty to sée the pro<g ref="char:EOLhyphen"/>mised Land.</p>
+               <p>By watching and prayer <hi>Samson</hi> slew about three thousand of the Lords enemies at his death, <hi>Judges 16.26, 27, 28, 29, and 30</hi> verses.</p>
+               <p>By watching and prayer <hi>Hanah</hi> that was baren obtained a Son from the Lord, and sung praises.
+<note place="margin">1 Sam. 1.10, to 14. and 2. c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. 1 Sam. 7.9.10. 1 Sam. 17, 23. chap. Judg. 10.</note>
+               </p>
+               <p>
+                  <hi>Samuel</hi> prayed and the Lord slew the <hi>Philistians</hi> with thunder from heaven.</p>
+               <p>
+                  <hi>David</hi> prayed and slew <hi>Goliah</hi> and obtained a great Victory over the Lords enemies, the <hi>Philistians</hi> at <hi>Kelah.</hi>
+               </p>
+               <p>The <hi>Israelites</hi> prayed and God delivered them from the <hi>Amo<g ref="char:EOLhyphen"/>nite</hi> and <hi>Philistines.</hi>
+               </p>
+               <p>
+                  <hi>Manoan</hi> prayed,
+<note place="margin">Jud 13.8.</note> and God sent an Angel from Heaven to in<g ref="char:EOLhyphen"/>struct them how to bring up <hi>Sam<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>on.</hi>
+               </p>
+               <p>King <hi>Hezekiah</hi> prayed and the Lord sent his Angel which in one night slew four score and five thousand of <hi>Senacharibs</hi> Ar<g ref="char:EOLhyphen"/>my and God caused the Sun to go back ten degrées,
+<note place="margin">2 Kings 19, 20. c.</note> to assure him that he would and fifteen years unto his life.</p>
+               <p>
+                  <hi>Solomon</hi> prayed, and God gave him both Wisdom, Riches,
+<note place="margin">1 King. 8. c.</note> and Honour.</p>
+               <p>
+                  <hi>Ezra</hi> prayed, and God spared from punishing,
+<note place="margin">Ezra 9, 10.</note> and blessed the peoples good reformation.</p>
+               <p>
+                  <hi>Nehemiah</hi> Watcht, Fasted, and Prayed, and obtained the peoples return out of Captivity,
+<note place="margin">Neh. 14 c</note> after they had spent thrée score and ten years in the Babilonish servitude.</p>
+               <p>
+                  <hi>Hester, Mordecah,</hi> and the <hi>Jews,</hi> Watcht, Fasted, and Pray<g ref="char:EOLhyphen"/>ed, and preserved their whole Nations from destruction,
+<note place="margin">Read Hest.</note> and caused <hi>Haman</hi> and his ten sons to be hanged.</p>
+               <p>By Wathing, Fasting and Prayer <hi>Daniel</hi> Interpreted the Kings Dream:
+<note place="margin">Read the Book of Daniel. Acts 5. c.</note> The Thrée Holy Children was delivered out of the Fiery Furnace, and were all promoted to great honour.</p>
+               <p>By Watching and Prayer, the Apostles were delivered out of Prison, and Confuted the Enemies of Christ.</p>
+               <p>By Faith, Watching, and Prayer,
+<note place="margin">Acts 7. c.</note> Holy <hi>Stephen</hi> indured sto<g ref="char:EOLhyphen"/>ning to death, saw Heaven open, and Christ fiting at God's Right hand, and prayed for his persecutors.</p>
+               <p>By Watching and Reading the Word of God the Eunuch was Converted, and an Angel sent to <hi>Phillip</hi> to Baptize him,
+<note place="margin">acts 8. ch.</note> and to confirm him in the Faith of Christ.</p>
+               <p>At the Prayer of <hi>Saul,</hi>
+                  <note place="margin">acts 9. ch.</note> God sent <hi>Ananias</hi> both to open his eyes and Baptize him, and to Confirm him in the Gospel of Iesus Christ.</p>
+               <p>Devout <hi>Cornelius</hi> Fasted and Prayed,
+<note place="margin">acts 10. ch.</note> and God sent an An<g ref="char:EOLhyphen"/>gel to direct him to <hi>Pecer:</hi> who when he came, preached Christ unto him, and Baptized both him and all his houshold.</p>
+               <p>By Fasting and Prayer, when <hi>Peter</hi> was Imprisoned,
+<note place="margin">acts 12. c.</note> bound fast in Fetters and Chains of Iron, slept betwéen two Soul<g ref="char:EOLhyphen"/>diers, had a strong Guard set before the doors; the Lord sent his Angel, which caused his Fetters to fall off, the Mighty Gates and Doors to open of their own accord, and to pass a<g ref="char:EOLhyphen"/>way unséen of any, and so saved him out of the hands of <hi>Hered,</hi> that would have slain him.</p>
+               <p>By Watching, Fasting, and Prayer, <hi>Paul</hi> and <hi>Silas,</hi>
+                  <note place="margin">acts 16. ch.</note> Con<g ref="char:EOLhyphen"/>verted and Baptized <hi>Lidia:</hi> cast out a Spirit of Divination, and at Midnight, when their féet were fast in the Stocks, they sung Praises: then an Earth-quake shook the Prison, loosed every mans Chains, opened the Prison Doors, conver<g ref="char:EOLhyphen"/>ted both the Iaylor and his houshold, and they were all Bapti<g ref="char:EOLhyphen"/>zed in the Name of Iesus Christ.</p>
+            </div>
+            <div type="poem">
+               <head>An Exhortation for to watch, &amp; pray, To meet our Saviour at that Glorious Days.</head>
+               <lg>
+                  <l>LORD, let us all be sober, Watch and Pray,</l>
+                  <l>that Christ, our hearts, our minds, our thoughts may sway;</l>
+                  <l>Let's not with <hi>Adam,</hi> by our ways uneven;</l>
+                  <l>As he lost Paradice, let's not loose Heaven:</l>
+                  <l>Nor yet with <hi>Cam</hi> destroy each others lives,</l>
+                  <l>Lest we, like him, be Cursed Fugitives:</l>
+                  <l>Let's not sin like the Old World, and <hi>Gomorah;</hi>
+                  </l>
+                  <l>Lest we like them, be made the Sons of Sorrow:</l>
+                  <l>With <hi>Noah</hi> and <hi>Lot,</hi> let's not with Drunkards fit,</l>
+                  <l>Till we be quite bereaved of fear and wit:</l>
+                  <l>Let's <hi>Sechems, Zimry,</hi> and <hi>mons</hi> Lust refrain,</l>
+                  <l>Lest by some Holy <hi>Phinies,</hi> we be slain:</l>
+                  <l>Let's not with <hi>Corah,</hi> against Magistrates Rebel,</l>
+                  <l>Lest we with him be hurried quick to Hell:</l>
+                  <l>Let's not with <hi>Samson,</hi> lust and buty prize,</l>
+                  <l>Lest we like him, lose both our strength and eyes:</l>
+                  <l>With <hi>David,</hi> covet not thy Neighbours wife,</l>
+                  <l>Like him, sée thou bereave no man of life:</l>
+                  <l>Reproach not Christ, neither his Flock disdain,</l>
+                  <l>Lest, like the <hi>Aegyptians,</hi> thou also be slain:</l>
+                  <l>Against thy Conscience, do not tell a Lye,</l>
+                  <l>Lest like <hi>Saphira,</hi> that thou also Dye:</l>
+                  <l>Walk thou with <hi>Enoch,</hi> which to Heaven was taken,</l>
+                  <l>And pray with <hi>Noah,</hi> when men have thée forsaken:</l>
+                  <l>Be thou faithful, with <hi>Abraham,</hi> in desire,</l>
+                  <l>Thou néedest not fear Revengeful Sword nor Fire:</l>
+                  <l>Live, just like <hi>Lot,</hi> when that he lived in <hi>Zoar,</hi>
+                  </l>
+                  <l>Covit not, <hi>Sodom,</hi> to return no more:</l>
+                  <l>Pray thou with <hi>Moses,</hi> with fervent desire,</l>
+                  <l>'Twil cure Diseases, and will quench Gods ire:</l>
+                  <l>With <hi>Samson</hi> pray, through Christ thou strength wilt gain,</l>
+                  <l>Till all thy sins be overcome and slain:</l>
+                  <l>Pray thou with <hi>Hannah, David,</hi> and the rest,</l>
+                  <l>That Christ may ease thee when thou art opprest:</l>
+                  <l>With <hi>Israel,</hi> to God thy sins confess,</l>
+                  <l>He'l slay thy foes when they do thée opress:</l>
+                  <l>Pray with <hi>Manoah,</hi> God will his Angel send</l>
+                  <l>In dangers great thy cause for to defend:</l>
+                  <l>Imitate thou how <hi>Hezekiah</hi> prays,</l>
+                  <l>God will add years unto thy shortned days:</l>
+                  <l>With <hi>Nehemiah,</hi> and Quéen <hi>Hester</hi> Pray,</l>
+                  <l>That to Frée Captives God would not delay:</l>
+                  <l>With <hi>Daniel</hi> Pray, when Death assails thée then</l>
+                  <l>Thou mayst escape the dreadful Lions Den:</l>
+                  <l>Pray with the Apostles, Iesus Christ is Risen,</l>
+                  <l>Thy Soul and Body to Redéem from Prison:</l>
+                  <l>With Holy <hi>Stephen</hi> hold out to the end,</l>
+                  <l>Thy Soul, through Christ, shall unto Heaven ascend.</l>
+                  <l>If with the Eunuch thou Watch, Pray, and Fast,</l>
+                  <l>By Christ his Blood, thou<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>t come to Heaven at last:</l>
+                  <l>Then pray with <hi>Saul,</hi> to Christ above the Skyes,</l>
+                  <l>Some <hi>Ananias</hi> shall open thine eyes:</l>
+                  <l>Or y with <hi>Cornelius,</hi> being fully bent</l>
+                  <l>To serve the Lord. Soul Heart, and Mind, Consent:</l>
+                  <l>Pray thou like <hi>Peter,</hi> when he prayed in Chains,</l>
+                  <l>God's Angel shall release thée for thy pains:</l>
+                  <l>With <hi>Paul</hi> and <hi>Silas,</hi> at midnight sing praise</l>
+                  <l>To God on high, he will direct thy ways:</l>
+                  <l>And make both Prisons, and Rough Kéepers quake,</l>
+                  <l>And be Converted for our Saviours sake.</l>
+               </lg>
+            </div>
+            <closer>
+               <signed>By W. I.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>J. Hose,</hi> over-against <hi>Staples-Inn</hi> in <hi>Holborn,</hi> neer <hi>Grays-Inn-Lane.</hi> 38.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
